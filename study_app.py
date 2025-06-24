@@ -15,7 +15,7 @@ import os
 
 st.set_page_config(page_title="🧠 Multimodal RAG App", layout="centered")
 
-st.title("📚🖼️🎥 Study _App")
+st.title("📚🖼️🎥 Study _App By HITESH YEREKAR")
 st.markdown("Upload **PDF**, **Image**, paste **YouTube Link**, and ask a question.")
 
 # --- Upload Inputs ---
