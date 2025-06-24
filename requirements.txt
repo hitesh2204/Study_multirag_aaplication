@@ -1,0 +1,14 @@
+
+langchain
+langchain-community
+openai
+pytesseract
+Pillow
+faiss-cpu
+youtube-transcript-api
+huggingface-hub
+sentence-transformers
+opencv-python
+streamlit
+PyMuPDF
+pypdf
